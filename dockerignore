@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+
+# Environment variables & secrets
+.env
+**/.env
+secrets.dev.yaml
+values.dev.yaml
+
+# Git
+.git
+.gitignore
+
+# Editor / IDE
+.vscode
+.vs
+.settings
+.project
+.classpath
+
+# Logs & caches
+npm-debug.log
+.cache
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Docs
+LICENSE
+README.md
